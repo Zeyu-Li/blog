@@ -1,5 +1,7 @@
 # My Personal Blog! 
 
+https://andrew-li-blog.vercel.app/
+
 Forked from [jekyll-klise template](https://github.com/piharpi/jekyll-klise)
 
 ## Running
@@ -18,7 +20,7 @@ To add new post do
 bundle exec jekyll post "Title"
 ```
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/piharpi/jekyll-klise) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/piharpi/jekyll-klise)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/piharpi/jekyll-klise) (deployed with Vercel)
 
 ## License
 
