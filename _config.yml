@@ -4,23 +4,22 @@ description: >- # site description
   👋 Hey, it's Andrew, and this is my blog
 lang: en-US # default lang
 timezone: America/Regina # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: assets/img/avatar.png # This image used for Open Graph more info https://ogp.me/ (preview link)
 repo: https://github.com/Zeyu-Li/blog # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Andrew Li # author name
+  name: 👋 Hey, it's Andrew! # author name
   bio: >- # tell to the world
-    Experience technology with me! <a href="https://github.com/Zeyu-Li" target="_blank" rel="noopener">@github</a>.
+    Experience technology with me as I journey through uni life! I also do art whenever I get time <br>(usually vector, isometric vector, or 3D). <br> Follow me on <a href="https://github.com/Zeyu-Li" target="_blank" rel="noopener">@github</a> or view my website <a href="https://zeyu-li.github.io/website/" target="_blank" rel="noopener">here</a>.
   username: Andrew # general username
   github: Zeyu-Li # github username
-  twitter: twitter_username # twitter username
   email: zeyu.li23@gmail.com # email adress
   avatar: /assets/img/avatar.png # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
+url: "https://andrew-li-blog.vercel.app/" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
