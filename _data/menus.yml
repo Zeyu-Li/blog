@@ -1,12 +1,12 @@
-- title: home
+- title: Home
   url: /
   external: false
 
-- title: archive
+- title: Archive
   url: /archive/
   external: false
 
-- title: website
+- title: Website
   url: https://zeyu-li.github.io/website/
   external: true # set true if you using external link, see below
 
