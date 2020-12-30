@@ -80,6 +80,7 @@ exclude:
   - lighthouse.png
   - klise-*.gem
   - klise.gemspec
+  - init.sh
 
 # Plugins
 plugins:
