@@ -1,6 +1,6 @@
 ---
 layout: post
-title: hacker-fails
+title: Hacker Fails
 date: 2021-02-14 18:34 -0600
 tags: [hackathon]
 ---
