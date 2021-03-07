@@ -12,17 +12,17 @@ mode: dark # default theme "dark" | "light"
 author:
   name: 👋 Hey, it's Andrew! # author name
   bio: >- # tell to the world
-    Experience technology with me as I journey through uni life! I also do art whenever I get time <br>(usually vector, isometric vector, or 3D). <br> Follow me on <a href="https://github.com/Zeyu-Li" target="_blank" rel="noopener">@github</a> or view my website <a href="https://zeyu-li.github.io/website/" target="_blank" rel="noopener">here</a>.
+    Experience technology with me as I journey through uni life 🐧! I also do art whenever I get time<br>Follow me on <a href="https://github.com/Zeyu-Li" target="_blank" rel="noopener">@github</a> or view my website <a href="https://zeyu-li.github.io/website/" target="_blank" rel="noopener">here</a>.
   username: Andrew # general username
   github: Zeyu-Li # github username
-  email: zeyu.li23@gmail.com # email adress
+  email: zeyu.li23@gmail.com # email address
   avatar: /assets/img/avatar.png # change with your own avatar
 
 # URL settings
 url: "https://andrew-li-blog.vercel.app/" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: G-7KYN026MWM # leave it blank if not wish
 fb_appid:
 
 # Collection setting
@@ -48,11 +48,11 @@ defaults:
 jekyll_compose:
   post_default_front_matter:
     modified:
-    tags: []
+    tags: [art]
     description:
   draft_default_front_matter:
     modified:
-    tags: []
+    tags: [art]
     description:
 
 # Homepage limit posts
