@@ -17,16 +17,15 @@
     > ❤️
   </small>
 </footer>
-<script src="/assets/js/main.js" defer="defer"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7KYN026MWM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-{%- if page.google_analytics -%}
-  <script src="/assets/js/galite.js"></script>
-  <script>
-    var galite = galite || {};
-    galite.UA = "{{ site.google_analytics }}";
-  </script>
-{%- endif -%}
-{%- if page.url == '/archive/' -%}
+  gtag('config', 'G-7KYN026MWM');
+</script>
+{%- if page.url == '/posts/' -%}
   <script src="/assets/js/search.min.js"></script>
   <script>
     var sjs = SimpleJekyllSearch({
