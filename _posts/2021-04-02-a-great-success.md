@@ -25,7 +25,7 @@ It appears that I kind of like digital drawing after recently getting into it. N
 
 Made a track for either the main theme or title screen for my advanced Unity tutorial. 
 
-**Currently not working :(, see https://github.com/Zeyu-Li/Unity-Advanced-3D-Tutorial/blob/master/Assets/Music/main.wav**
+**Currently not working :(, see [github.com/Zeyu-Li/Unity-Advanced-3D-Tutorial/blob/master/Assets/Music/main.wav](https://github.com/Zeyu-Li/Unity-Advanced-3D-Tutorial/blob/master/Assets/Music/main.wav)**
 
 <audio controls>
   <source src="../assets/img/main.wav">
