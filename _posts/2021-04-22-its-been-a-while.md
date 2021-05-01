@@ -2,6 +2,7 @@
 layout: post
 title: It's Been a While
 date: 2021-04-22 17:45 -0600
+tags: [art]
 ---
 
 ## 👋 Hey, it's been a while
