@@ -19,7 +19,7 @@ Forked from [jekyll-klise template](https://github.com/piharpi/jekyll-klise)
 Run local server:
 
 ```bash
-bundle exec jekyll serve
+bundle exec jekyll serve 
 ```
 
 Now running on http://localhost:4000/
