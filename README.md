@@ -22,7 +22,7 @@ Run local server:
 bundle exec jekyll serve 
 ```
 
-Now running on http://localhost:4000/
+Now running on http://localhost:4001/
 
 To add new post do
 
