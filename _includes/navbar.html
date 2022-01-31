@@ -23,7 +23,7 @@
         height="24"
         viewBox="0 0 512 512"
       >
-        <title>LIGHT</title>
+        <title>Light toggle</title>
         <line
           x1="256"
           y1="48"
@@ -166,7 +166,7 @@
         {%- if menus %}
           {%- for menu in menus -%} 
             {%- if url == menu.url -%}
-              <a class="menu-link active" href="{{ menu.url }}">{{ menu.title }}</a>
+              <a class="menu-link active" href="{{ menu.url }}" title="{{ menu.title }}">{{ menu.title }}</a>
             {%- else -%} 
               {%- if menu.external -%}
                 <a
@@ -174,10 +174,11 @@
                   href="{{ menu.url }}"
                   target="_blank"
                   rel="noopener"
+                  title="{{ menu.title }}"
                   >{{ menu.title }}</a
                 >
               {%- else -%}
-                <a class="menu-link" href="{{ menu.url }}">{{ menu.title }}</a>
+                <a class="menu-link" href="{{ menu.url }}"  title="{{ menu.title }}">{{ menu.title }}</a>
               {%- endif -%} 
             {%- endif -%} 
           {%- endfor -%}

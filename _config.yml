@@ -12,7 +12,12 @@ mode: dark # default theme "dark" | "light"
 author:
   name: 👋 Hey, it's Andrew! # author name
   bio: >- # tell to the world
-    Experience technology with me as I journey through uni life 🐧! I also do <a href="https://blog.andrewli.site/art/" target="_blank" rel="noopener">art</a> whenever I get time<br>Follow me on <a href="https://github.com/Zeyu-Li" target="_blank" rel="noopener">@github</a> or view my website <a href="https://andrewli.site/" target="_blank" rel="noopener">here</a>.
+    Experience technology with me as I journey through uni life 🐧! 
+    I also do <a href="https://blog.andrewli.site/art/" target="_blank" rel="noopener">art</a> 
+    whenever I get time
+    <br>Follow me on <a href="https://github.com/Zeyu-Li" target="_blank" rel="noopener">@github</a> 
+    or view my website <a href="https://andrewli.site/" target="_blank" rel="noopener">here</a>
+
   username: Andrew # general username
   github: Zeyu-Li # github username
   email: zeyu.li23@gmail.com # email address
@@ -20,7 +25,7 @@ author:
 
 # URL settings
 url: "https://blog.andrewli.site/" #
-baseurl:
+baseurl: andrewli.site
 permalink: /:title/
 google_analytics: G-7KYN026MWM # leave it blank if not wish
 fb_appid:
@@ -48,7 +53,7 @@ defaults:
 jekyll_compose:
   post_default_front_matter:
     modified:
-    tags: [art]
+    tags: [update]
     description:
   draft_default_front_matter:
     modified:
