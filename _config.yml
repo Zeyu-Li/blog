@@ -25,7 +25,7 @@ author:
 
 # URL settings
 url: "https://blog.andrewli.site/" #
-baseurl: andrewli.site
+baseurl: 
 permalink: /:title/
 google_analytics: G-7KYN026MWM # leave it blank if not wish
 fb_appid:
