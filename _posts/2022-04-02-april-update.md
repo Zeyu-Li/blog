@@ -35,6 +35,12 @@ Live link: [freelancing.andrewli.site](https://freelancing.andrewli.site/)
 
 Source: [github.com/Zeyu-Li/freelance](https://github.com/Zeyu-Li/freelance)
 
+#### Figma Docs
+
+Created a massive doc for using Figma (I will now use it as a design language for documenting things in the future)
+
+See [github.com/Zeyu-Li/figma-docs](https://github.com/Zeyu-Li/figma-docs)
+
 ### Kudos
 
 Thanks for getting through my blog post 👋
