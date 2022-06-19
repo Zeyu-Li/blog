@@ -30,6 +30,10 @@ To add new post do
 bundle exec jekyll post "Title" 
 ```
 
+## Generation
+
+Use `./init.sh <blog-name>` to generate a new page in the site and start the server locally
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
