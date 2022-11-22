@@ -1,6 +1,6 @@
 ---
 layout: post
-title: school-jail
+title: Is School Jail
 date: 2022-11-05 10:25 -0600
 ---
 
