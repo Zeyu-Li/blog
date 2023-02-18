@@ -181,8 +181,8 @@
 
 // Author
 .author {
-  margin-top: 6.3rem;
-  margin-bottom: 7.2rem;
+  padding-top: 6.3rem;
+  padding-bottom: 7.2rem;
   text-align: center;
 
   @include media-query($on-mobile) {
@@ -195,15 +195,17 @@
     border-radius: 100%;
     user-select: none;
     background-color: $black;
-    -ms-user-select: none;
-    -webkit-user-select: none;
-    -webkit-animation: 0.5s ease-in forwards fadein;
-    animation: 0.5s ease-in forwards fadein;
-    opacity: 1;
-    filter: brightness(1);
+    // -ms-user-select: none;
+    // -webkit-user-select: none;
+    // -webkit-animation: 0.5s ease-in forwards fadein;
+    // animation: 0.5s ease-in forwards fadein;
+    transition-property: opacity;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+    filter: brightness(1.1);
 
     &:hover {
-      filter: brightness(1.1);
+      filter: brightness(1);
     }
   }
 
@@ -382,4 +384,12 @@
     border: 1px solid rgba(128, 128, 128, 0.1);
     background-color: rgba(128, 128, 128, 0.1);
   }
+}
+
+.wrapper {
+  
+  background-image: url("/assets/img/abstract.svg");
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-position-y: 90%;
 }

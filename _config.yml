@@ -12,11 +12,10 @@ mode: dark # default theme "dark" | "light"
 author:
   name: 👋 Hey, it's Andrew! # author name
   bio: >- # tell to the world
-    Experience technology with me as I journey through uni life 🐧! 
-    I also do <a href="https://blog.andrewli.site/art/" target="_blank" rel="noopener">art</a> 
-    whenever I get time
-    <br>Follow me on <a href="https://github.com/Zeyu-Li" target="_blank" rel="noopener">@github</a> 
-    or view my website <a href="https://andrewli.site/" target="_blank" rel="noopener">here</a>
+    Explore tech with me as I waddle through life! 🐧 
+    <br style="margin-top: 30px" />Follow me on <a href="https://github.com/Zeyu-Li" target="_blank" rel="noopener">@github</a> 
+    or view my website <a href="https://andrewli.site/" target="_blank" rel="noopener">here</a> or 
+    check out my <a href="https://blog.andrewli.site/art/" target="_blank" rel="noopener">art 🎨</a> 
 
   username: Andrew # general username
   github: Zeyu-Li # github username
