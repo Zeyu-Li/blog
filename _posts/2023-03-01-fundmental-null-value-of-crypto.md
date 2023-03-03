@@ -2,6 +2,7 @@
 layout: post
 title: Fundamental Null Value of Crypto
 date: 2023-03-01 22:57 -0600
+tags: [crypto]
 ---
 
 Crypto and blockchain are digital technologies that have gained immense popularity in recent years but with very few use cases especially non financial ones. They are based on the principles of supposedly "decentralized" systems and cryptography, which allows for "secure" and "transparent" transactions without the need for intermediaries. The crypto community has hailed crypto for it's 
