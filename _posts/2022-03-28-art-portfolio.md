@@ -9,7 +9,7 @@ tags: [art]
 
 My art portfolio all in one place!
 
-I mostly do vector, isometric vector, or 3D art, but I sometimes dive into other categories like pixel and digital rasterized art. 
+I mostly do vector, isometric vector, or 3D art, but I sometimes dive into other categories like pixel and digital rasterized art.
 
 Without further ado, I will start posting my art!
 
@@ -21,13 +21,13 @@ This one was made in Blender with the synthwave sun made in illustrate, so I had
 
 ![tardis](../assets/img/art/tardis.png)
 
-One of my first Blender animations and models! I think I followed a tutorial for the wormhole but the TARDIS was modeled my me.
+One of my first Blender animations and models! I think I followed a tutorial for the wormhole but the TARDIS was modelled by me.
 
 ### Animations
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AJ4S-1067gc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The background was made in Cinema 4D while everything else was composited in after effects. The spaceship was made in illustrator and the music is Text Me Records by Bobby Renz
+The background was made in Cinema 4D while everything else was composed in after effects. The spaceship was made in illustrator and the music is Text Me Records by Bobby Renz
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c-YdjWh7LDA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -57,7 +57,7 @@ A isometric island made in illustrator
 
 ![discord_avatar](../assets/img/art/github_avatar.png)
 
-This is my GitHub avatar that was made in [Mandelbulb3D](https://www.mandelbulb.com/2014/mandelbulb-3d-mb3d-fractal-rendering-software/), a 3D fractal (called mandelbulbs) generator! The theory behind fractals are that they are a self recurring image of themselves at different scales. 
+This is my GitHub avatar that was made in [Mandelbulb3D](https://www.mandelbulb.com/2014/mandelbulb-3d-mb3d-fractal-rendering-software/), a 3D fractal (called mandelbulbs) generator! The theory behind fractals is that they are a self recurring image of themselves at different scales.
 
 ### Penguins
 

@@ -6,7 +6,7 @@ tags: [update]
 ---
 # Midway Through
 
-This is an important message: we are halfway through the year 😱! Can you believe it? Christmas is almost here, it came so soon. I can't believe it! Jokes aside, since the last update, so much has happened I can't even keep track. I think the most significant thing in my life has been incorporating my business Antarctic Solutions Inc. which now has a fancy homepage: 
+This is an important message: we are halfway through the year 😱! Can you believe it? Christmas is almost here, it came so soon. I can't believe it! Jokes aside, since the last update, so much has happened I can't even keep track. I think the most significant thing in my life has been incorporating my business Antarctic Solutions Inc. which now has a fancy homepage:
 
 See [antarcticsolutions.ca](https://antarcticsolutions.ca/)
 

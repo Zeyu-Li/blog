@@ -7,7 +7,7 @@ tag: [school]
 
 # Hack the North
 
-Well Hack the North happened and it didn't go so well 😳. Let's just say someone in our group didn't show up. Otherwise it wasn't too bad other than hackathon semantics like not being feature rich and being crushed on time. Our project phionthrium is a way (website) to crowdfund open source software using smart contracts. You can explore the website [here](https://phionthrium.vercel.app/) but I think I will disconnect the backend soon. The astetics for the front end look cool, but other than that it's a bit feature incomplete. 
+Well Hack the North happened and it didn't go so well 😳. Let's just say someone in our group didn't show up. Otherwise it wasn't too bad other than hackathon semantics like not being feature rich and being crushed on time. Our project phionthrium is a way (website) to crowdfund open source software using smart contracts. You can explore the website [here](https://phionthrium.vercel.app/) but I think I will disconnect the backend soon. The aesthetics for the front end look cool, but other than that it's a bit feature incomplete.
 
 View some screenshots [here](https://github.com/Zeyu-Li/phionthrium) and I have provided a single one here:
 

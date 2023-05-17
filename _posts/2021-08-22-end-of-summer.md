@@ -9,7 +9,7 @@ tags: [summer, update]
 
 Well it seems like the end of summer is quickly approaching, which means one thing for me... school 😢
 
-Before it's over tho, I want to rate this summer out of 10. So far, I'm giving it a 9/10, probably the best summer I will have. I got a lot done and even tho I wanted to do just a touch more things, I am grateful for everything I have done. 
+Before it's over, I want to rate this summer out of 10. So far, I'm giving it a 9/10, probably the best summer I will have. I got a lot done and even though I wanted to do just a touch more things, I am grateful for everything I have done.
 
 ### Hackathon
 

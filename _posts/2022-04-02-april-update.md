@@ -11,7 +11,7 @@ Hi folks, it's already a quarter way through the year 😳so probably best to gi
 
 ### Job
 
-Currently have a good time at Intuit and looking forward to actually going in person in May. This will be my first time in the office and I am so excited to finally meet some people in person rather than on zoom. From the posts on Slack I see some very exciting events going on in the office so far that I wasn't part of so it is my destiny to partake in those fun events soon. 
+Currently having a good time at Intuit and looking forward to actually going in person in May. This will be my first time in the office and I am so excited to finally meet some people in person rather than on zoom. From the posts on Slack I see some very exciting events going on in the office so far that I wasn't part of so it is my destiny to partake in those fun events soon.
 
 In addition to the main job, I'm gonna start a business for my freelancing mostly, so that will be exciting since I have much to do and I'm excited for what comes next! Currently looking ahead and trying to get some freelancing clients under my company so if you know anyone, [📞me](mailto:hello@andrewli.site)
 

@@ -15,7 +15,7 @@ Other than school work, I have been grinding out [Advent of Code](https://advent
 
 ### Exploring
 
-In other news, I have been looking at TempleOS and it's scripting language HolyC. The technical prowess is extremely enticing and that's why I spend the past 6-8 hours exploring it 😅. I think I've done all for today but I might revisit it in the far future and for one of my AoC problems. 
+In other news, I have been looking at TempleOS and its scripting language HolyC. The technical prowess is extremely enticing and that's why I spend the past 6-8 hours exploring it 😅. I think I've done all for today but I might revisit it in the far future and for one of my AoC problems.
 
 ---
 
