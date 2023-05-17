@@ -7,7 +7,7 @@ tags: [art]
 
 ## ART GALORE
 
-Wow what a busy week it has been. Aside from release the first version of the app for my job, I also finished a lot of things I have wanted to do/finish. In no particular order they are:
+Wow what a busy week it has been. Aside from releasing the first version of the app for my job, I also finished a lot of things I have wanted to do/finish. In no particular order they are:
 
 ### Bottom Penguin
 
@@ -31,15 +31,15 @@ Here are some snapshots:
 
 ![snapshot4](https://raw.githubusercontent.com/Zeyu-Li/Unity-Advanced-3D-Tutorial/master/img/screenshot4.png)
 
-### Making Penguin Space 
+### Making Penguin Space
 
-When penguins go to space, we ask you to join the space penguin galactic empire 
+When penguins go to space, we ask you to join the space penguin galactic empire
 
 ![spaceship2](../assets/img/art/spaceship2.png)
 
 ### Looking forward
 
-Well it seems like an exciting time, not only for me but for a lot of other tech related things. One thing that I excited for is finally using the Geometry nodes in Blender. This [video](https://www.youtube.com/watch?v=E2wVTGzSwpg) has got me excited especially. Other than Blender, Windows has a new update with a big UI overhaul, but I am most excited about the windows package manager and GUI apps in WSL2! 
+Well it seems like an exciting time, not only for me but for a lot of other tech related things. One thing that I am excited for is finally using the Geometry nodes in Blender. This [video](https://www.youtube.com/watch?v=E2wVTGzSwpg) has got me especially excited. Other than Blender, Windows has a new update with a big UI overhaul, but I am most excited about the windows package manager and GUI apps in WSL2!
 
 
 

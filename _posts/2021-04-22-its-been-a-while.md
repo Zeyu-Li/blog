@@ -7,7 +7,7 @@ tags: [art]
 
 ## 👋 Hey, it's been a while
 
-It's been 20 days since the last update and that's due to final season and partly stacking off. However I have not done nothing during that time - I've made more art. This time I've experimented with different styles by learning from tutorials
+It's been 20 days since the last update and that's due to finals season and partly stacking off. However I did not do nothing during that time - I've made more art. This time I've experimented with different styles by learning from tutorials
 
 This first one is my classic spherical cow in a cartoon style:
 

@@ -7,7 +7,7 @@ tag: [job]
 
 ## My First Real Job
 
-A great success has been achieved since the last update. I got accepted as a part time research assistant for the University of Alberta! This will be my first real job and I'm very excited for what's in store for me. On the other hand, some sad news for my computer architecture class, where the average is a 1.6/4.0 😳. 
+A great success has been achieved since the last update. I got accepted as a part time research assistant for the University of Alberta! This will be my first real job and I'm very excited for what's in store for me. On the other hand, some sad news for my computer architecture class, where the average is a 1.6/4.0 😳.
 
 ## Other news
 
