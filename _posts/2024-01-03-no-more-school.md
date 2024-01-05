@@ -67,7 +67,7 @@ Now I will go over my courses one by one as I have taken them starting with year
 * CMPUT 291 - Databases, databases, databases: This is **THE **important class. You need to take this class in addition with 301 since it is so useful.  Doesn't matter if you are going into academia, compilers, or graphics, everyone will touch a database at some point because they are everywhere. Please don't skip out on this course. 
 * CMPUT 296 - Basic Machine Learning (now 267): A very math heavy course that focuses too much on the theoretical instead of applied personal. Also quite a bit of stats I missed from honors stats instead of the applied route. 
 * CMPUT 301 - Intro to Software Engineering: This is another important class like 291. You need to take this class since it's about project management and working in a team. You not only learn about software abstractions common in Java UML 🤢 (also no one uses UML in industry), but you learn about scrum as well. Literally cannot miss this course if or if you don't work in industry. Also, make sure you have a good team picked for this course. 
-* ECON 101 - Intro Microeconomics: this class is pure Austrian School of Economics bs propaganda. It covers all the line go up toupes you would expect in something so elementary. 
+* ECON 101 - Intro Microeconomics: this class is pure Austrian School of Economics bs propaganda. It covers all the line go up tropes you would expect in something so elementary. 
 
 ### Y3S1
 
