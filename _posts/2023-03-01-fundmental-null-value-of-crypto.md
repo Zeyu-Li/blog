@@ -26,6 +26,8 @@ In addition, the whole space is not very decentralized as most people use an exc
 
 Just look at the fall of FTX and the other crypto funds. Additionally, I think a lot of people are delusional into thinking if it's virtual, it's untouchable, however the users exist in the physical world where any form of physical intimidation is enough to break in.
 
+![security.png](../assets/img/other/security.png)
+
 ## Anonymity
 
 Anonymity is not a thing, every transaction is public and people can easily track you, in fact, entities like the government with large and expansive surveillance networks apparatuses can easily tell who is who. This is because not only the date is recorded but the amount so you can derive a lot of info from that. If we consider a crypto where everything is anonymized, the government will still be able to find you (as their resources vastly outnumber you). In fact, they will use the same tactics to catch money launderers as value will have to flow from one form to one thing you want. This is not even considering that a majority just use a centralized exchange.
