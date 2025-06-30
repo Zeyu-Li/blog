@@ -9,7 +9,7 @@ Going forward I also wonder if I should ask ChatGPT to help me write these blog 
 
 ## School Life
 
-Thankfully no school as I have decided to drop out of the spring courses as I don't think I can handle the can shortened schedule of spring semesters (2 months long). Hopefully I will still be able to graduate after fall this year but this does put it in question. Nevertheless I am hopeful I just need 1 more semester.
+Thankfully no school, as I have decided to drop out of the spring courses as I don't think I can handle the shortened schedule of spring semesters (2 months long). Hopefully I will still be able to graduate after fall this year but this does put it in question. Nevertheless I am hopeful I just need 1 more semester.
 
 ----
 

@@ -13,7 +13,7 @@ I watched the new Spiderman and it was amazing. Really recommend such an awesome
 
 ### School
 
-I’m taking a freebie summer course of Phil 120 which is an easy first level logic course. Should run into no trouble as I still have to work full time fingers crossed. 
+I’m taking a freebie summer course of Phil 120 which is an easy first level logic course. Should run into no trouble as I still have to work full time, fingers crossed. 
 
 ### New resume
 

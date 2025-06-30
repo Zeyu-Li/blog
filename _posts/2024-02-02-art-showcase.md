@@ -5,7 +5,7 @@ date: 2024-02-02 12:30 -0600
 tag: [art]
 ---
 
-Here is a showcase some of my designs!
+Here is a showcase of some of my designs!
 
 ## Websites:
 
