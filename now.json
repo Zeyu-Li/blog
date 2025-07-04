@@ -1,5 +1,11 @@
 {
   "version": 2,
+  "builds": [
+    {
+      "src": "Gemfile",
+      "use": "@vercel/ruby@3.2.3"
+    }
+  ],
   "routes": [
     { "handle": "filesystem" },
     { "src": "/.*", "status": 404, "dest": "404.html" }
