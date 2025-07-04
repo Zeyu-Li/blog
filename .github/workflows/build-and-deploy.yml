@@ -3,7 +3,7 @@ name: Build and Deploy Jekyll to Vercel
 on:
   push:
     branches:
-      - main  # or your deployment branch
+      - master
 
 jobs:
   build:
