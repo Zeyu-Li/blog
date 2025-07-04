@@ -3,7 +3,10 @@
   "builds": [
     {
       "src": "Gemfile",
-      "use": "@vercel/ruby@3.2.3"
+      "use": "@vercel/ruby",
+      "config": {
+        "rubyVersion": "3.2.3"
+      }
     }
   ],
   "routes": [
