@@ -1,0 +1,29 @@
+name: Build and Deploy Jekyll to Vercel
+
+on:
+  push:
+    branches:
+      - main  # or your deployment branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Ruby 3.2.3
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.2.3
+          bundler-cache: true
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Build the Jekyll site
+        run: bundle exec jekyll build
+
+      - name: Deploy to Vercel
+        run: npx vercel deploy --prod --prebuilt --token=${{ secrets.VERCEL_TOKEN }}
