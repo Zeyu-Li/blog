@@ -23,7 +23,7 @@ jobs:
         run: bundle install
 
       - name: Build the Jekyll site
-        run: bundle exec jekyll build
+        run: bundle exec jekyll build --destination .vercel/output 
 
       - name: Deploy to Vercel
         run: npx vercel deploy --prod --prebuilt --token=${{ secrets.VERCEL_TOKEN }} --yes
