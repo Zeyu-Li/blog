@@ -30,3 +30,5 @@ Thump thump thumping of the loom, grows louder and louder, the engines of capita
 ----
 
 See the consequences of compound interest next: [link](/compounding-and-its-consequences)
+
+No AI was used in the making of this blog post! 🚫🤖🚫
