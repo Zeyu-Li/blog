@@ -18,5 +18,5 @@ Compounding extends more than just money as well. I believe compounding also exp
 
 ## How did the initial capital start?
 
-Capital often started the chest via war, plunder, slavery, colonialism, violence, then scaling via stealing surplus value and the usury fees. Banks supported empires in the early days of colonization via bonds and other instruments to fund conquest, they still do that now but there are much more complex financial machines for it now. 
+Capital often started the chest via war, plunder, slavery, colonialism, violence, then scaling via stealing surplus value and the usury fees. Banks supported empires in the early days of colonization via bonds and other instruments to fund conquest. This is an ongoing process with relevance now, but there are much more complex financial machines that turn the engines of capital nowadays. 
 
