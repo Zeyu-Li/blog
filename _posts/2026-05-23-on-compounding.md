@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Compounding and its Consequences
+title: On Compounding
 date: 2026-05-23 16:12 -0600
 tags: [analysis]
 pinned: true
