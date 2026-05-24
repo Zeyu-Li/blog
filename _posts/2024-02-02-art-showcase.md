@@ -3,6 +3,7 @@ layout: post
 title: Art Showcase
 date: 2024-02-02 12:30 -0600
 tag: [art]
+pinned: true
 ---
 
 Here is a showcase of some of my designs!

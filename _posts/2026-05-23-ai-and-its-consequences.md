@@ -2,6 +2,8 @@
 layout: post
 title: AI and its Consequences
 date: 2026-05-23 14:15 -0600
+tags: [analysis, ai]
+pinned: true
 ---
 
 # AI and its Consequences
